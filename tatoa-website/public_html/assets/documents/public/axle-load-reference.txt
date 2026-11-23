@@ -1,0 +1,11 @@
+AXLE LOAD REGULATIONS — REFERENCE SUMMARY (SAMPLE / PLACEHOLDER)
+=================================================================
+
+This is a placeholder reference document for demonstration only.
+It does not represent verified LATRA figures. Replace with the
+current official axle-load schedule before publishing.
+
+[Road Class]        [Placeholder Limit]
+Trunk roads          -- see official LATRA schedule --
+Regional roads       -- see official LATRA schedule --
+District roads       -- see official LATRA schedule --

@@ -1,0 +1,62 @@
+[
+    {
+        "id": "member_seed1",
+        "companyName": "Kilimanjaro Freight Ltd",
+        "contactName": "Amani Mushi",
+        "email": "amani@kilifreight.co.tz",
+        "phone": "+255 754 000111",
+        "location": "Arusha",
+        "transportType": "General Cargo",
+        "truckType": "18 x flatbed 30t",
+        "corridor": "Tanga \u2013 Arusha \u2013 Namanga",
+        "cargo": "Agricultural produce, general goods",
+        "services": "Regional and cross-border cargo hauling with own clearing team.",
+        "status": "active",
+        "joinedDate": "2026-08-30"
+    },
+    {
+        "id": "member_seed2",
+        "companyName": "Nyerere Bulk Transporters",
+        "contactName": "Grace Mwakalinga",
+        "email": "grace@nyereretrans.co.tz",
+        "phone": "+255 754 000222",
+        "location": "Dar es Salaam",
+        "transportType": "Bulk / Mining",
+        "truckType": "25 x tipper 20t",
+        "corridor": "Dar es Salaam \u2013 DRC (Central Corridor)",
+        "cargo": "Minerals, construction aggregates",
+        "services": "Bulk mineral haulage to DRC and Zambia.",
+        "status": "active",
+        "joinedDate": "2026-08-30"
+    },
+    {
+        "id": "member_seed3",
+        "companyName": "Ruvuma Cargo Movers",
+        "contactName": "Fatma Said",
+        "email": "fatma@ruvumacargo.co.tz",
+        "phone": "+255 754 000444",
+        "location": "Mtwara",
+        "transportType": "Container / Port Transit",
+        "truckType": "8 x container chassis",
+        "corridor": "Mtwara Corridor",
+        "cargo": "Containerized port cargo",
+        "services": "Port-to-inland container transport.",
+        "status": "pending",
+        "joinedDate": "2026-08-30"
+    },
+    {
+        "companyName": "GSM",
+        "contactName": "Yasini Rashid",
+        "email": "yasinirashid2004@gmail.com",
+        "phone": "0718833406",
+        "location": "Dar Es Salaam",
+        "transportType": "General Cargo",
+        "truckType": "SCANNIA",
+        "corridor": "Dar es Salaam \u2013 Zambia (TAZARA)",
+        "cargo": "VEGETABLE",
+        "services": "",
+        "id": "member_d24c177c4c",
+        "status": "pending",
+        "joinedDate": "2026-08-30"
+    }
+]

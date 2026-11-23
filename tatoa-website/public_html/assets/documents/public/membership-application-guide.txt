@@ -1,0 +1,14 @@
+TATOA — MEMBERSHIP APPLICATION GUIDE (SAMPLE)
+==============================================
+
+This is a placeholder document for demonstration purposes.
+
+To apply for TATOA membership:
+1. Visit the Membership page and complete the online application form.
+2. Provide accurate company, contact and fleet information.
+3. Submit the form — your application status will show as "Pending".
+4. A TATOA administrator will review your application.
+5. Once approved, your status changes to "Active" and your company
+   profile appears in the Member Directory.
+
+Replace this file with the real TATOA membership guide.
